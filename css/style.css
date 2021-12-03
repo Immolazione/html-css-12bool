@@ -1,3 +1,10 @@
+section {
+    margin-bottom: 20px;
+}
+h1 {
+    color: black;
+}
+
 div > * {
     color: white;
 }
