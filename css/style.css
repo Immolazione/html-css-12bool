@@ -1,7 +1,7 @@
 section {
     margin-bottom: 20px;
 }
-h1 {
+h1, h3 {
     color: black;
 }
 
@@ -9,10 +9,14 @@ div > * {
     color: white;
 }
 
+
 [class^="col"] {
     height: 100px;
     background-color: #006CFA;
     border: 1px solid white;
 }
 
+.big {
+    height: 200px;
+}
 /* #00E165 */
