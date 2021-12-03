@@ -16,6 +16,22 @@ div > * {
     border: 1px solid white;
 }
 
+.nest {
+    padding: 20px;
+}
+.nest-between {
+    justify-content: space-between;
+}
+
+.nest-around {
+    justify-content: space-around;
+}
+.sub-nested {
+    height: 50px;
+    background-color: lime;
+    border: 1px solid #006CFA;
+}
+
 .big {
     height: 200px;
 }
